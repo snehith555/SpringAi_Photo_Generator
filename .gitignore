@@ -32,6 +32,8 @@ build/
 ### VS Code ###
 .vscode/
 
-# Environment / secrets
 .env
-application.properties
+application-local.properties
+
+# node
+node_modules/

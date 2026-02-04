@@ -22,7 +22,6 @@ public class ChatService {
 
     }
 
-
     public String getResponseOptions(String prompt){
         try{
             ChatResponse response = chatModel.call(
